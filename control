@@ -1,0 +1,9 @@
+Package: com.pyroxal.clearbg
+Name: ClearFolderBG
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Remove folder icon backgrounds
+Maintainer: Pyroxal
+Author: Pyroxal
+Section: Tweaks
